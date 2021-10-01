@@ -1,7 +1,7 @@
 
 ###################################################
 
-## Is expected to set up two fallow functions:
+## Is expected to set up two follow functions:
 #1. makeCacheMatrix -- Creates a special matrix
 #2. cacheSolve -- Gets the inverse of the special matrix by using function SOLVE
 
